@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #E6E6FA;
+}
+.container{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+    background: #D8BFD8;
+}
+.logo{
+    width: 100%;
+    float: left;
+    background: #D8BFD8;
+}
+.left{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+    background: #D8BFD8;
+}
+.right{
+    float: right;
+    width: 30%;
+    height: 100%;
+    border-radius: 24px;
+    background: #DA70D6;
+}
+.left-button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    background: #D8BFD8;
+}
+.logimg{
+    position: absolute;
+    left: 36.67%;
+    right: 37.43%;
+    top: 0%;
+    bottom: 0%;
+}
+.text-input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    top: 168px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    outline: none;
+    color: #A020F0;
+    border: none;
+    background: #D8BFD8;
+}
+#lupa{
+    margin-left: 5%;
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+    text-align: center;
+}
+#texto{
+   margin-left: 5%;
+   margin-right: 5%;
+   text-align: center;
+   color: azure;
+}
+#texto2{
+    float: left;
+    margin-left: 10%;
+    color: #A020F0;
+    background: #E6E6FA;
+    width: 80%;
+    height: 20%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+#botaocriptografar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    background: #DA70D6;   
+}
+#botaodescriptografar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    background: #E6E6FA;
+}
+#copiar {
+    margin-left: 33%;
+    margin-top: 1%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #D8BFD8;
+    border-radius: 24px;
+    display: non;
+}
+
+#apenas {
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+}
